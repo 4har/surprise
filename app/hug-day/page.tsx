@@ -148,13 +148,13 @@ export default function HugDay() {
           </motion.button>
         </motion.div>
 
-        <Link href="/kiss-day">
+        <Link href="/cutie-day">
           <motion.button
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-teal-500 text-white rounded-full font-bold text-lg shadow-lg"
           >
-            Next: Kiss Day 💋
+            Next: Cutie Day
           </motion.button>
         </Link>
       </div>
