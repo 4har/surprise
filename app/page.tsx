@@ -18,7 +18,7 @@ const DAYS = [
   { day: "Teddy", emoji: "🧸", path: "/teddy-day", date: "Feb 10" },
   { day: "Promise", emoji: "🤝", path: "/promise-day", date: "Feb 11" },
   { day: "Hug", emoji: "🤗", path: "/hug-day", date: "Feb 12" },
-  { day: "Kiss", emoji: "💋", path: "/kiss-day", date: "Feb 13" },
+  { day: "Cutie", emoji: "😊", path: "/cutie-day", date: "Feb 13" },
   { day: "Valentine’s", emoji: "❤️", path: "/valentines-day", date: "Feb 14" },
 ];
 
