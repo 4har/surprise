@@ -132,7 +132,7 @@ export default function Home() {
           transition={{ duration: 2, repeat: Infinity }}
           className="text-center text-3xl"
         >
-          👇 Choose a day to start! 👇
+          ☝ Choose a day to start! 🤞
         </motion.div>
       </div>
     </main>
