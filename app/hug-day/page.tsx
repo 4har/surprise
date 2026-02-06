@@ -154,7 +154,7 @@ export default function HugDay() {
             whileTap={{ scale: 0.95 }}
             className="px-8 py-4 bg-gradient-to-r from-cyan-500 to-teal-500 text-white rounded-full font-bold text-lg shadow-lg"
           >
-            Next: Cutie Day
+            Next: Cutie Day 😊
           </motion.button>
         </Link>
       </div>
